@@ -1,4 +1,4 @@
-# Python Assignment
+# Python Minor Project
 
 4 basic Python programs:
 
